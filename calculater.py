@@ -1,0 +1,10 @@
+first_num=int(input("enter first number : "))
+second_num=int(input("enter cesond number : "))
+add=first_num+second_num
+sub=first_num-second_num
+mul=first_num*second_num
+div=first_num/second_num
+print(f"Addition = {add}")
+print(f"Subtraction = {sub}")
+print(f"Multiplication = {mul}")
+print(f"Division = {div}")
